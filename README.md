@@ -1,2 +1,2 @@
-# interactive-reports
-Project for creating interactive reports that will help usual workers and other people in company see some daily/monthly/yearly reports. Generating reports will be creating by asking some questions from worker or group of workers. In generated report you can see tables, graphics and other further info with some kind of summary of completed work.
+# Interactive-reports
+Project for creating interactive reports that will help usual workers and other people in company see some daily/monthly/yearly reports.<br/>Generating reports will be creating by asking some questions and statistics from worker or group of workers. <br/>In generated report you can see tables, graphics and other further info with some kind of summary of completed work. <br/>Also you can export report in comfort for you file extension (like pdf, or image with graphics). <br/><i>For creating i using: Java, Spring, Vaadin</i>
